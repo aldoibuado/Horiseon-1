@@ -15,7 +15,7 @@ Upon going to the website, you are able to click on search engine optimization, 
 Here is the link to the deployed website!
 https://aldoibuado.github.io/Horiseon-1/#social-media-marketing
 
-![Screenshot (20)](https://user-images.githubusercontent.com/109316738/199802875-7e43efec-95c9-458c-a283-9f2bd5832358.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/109316738/204065054-79d359a7-bed9-407d-a7e9-d07755fdd699.png)
 
 ## License
 
